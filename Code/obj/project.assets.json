@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\Code.csproj",
-      "projectName": "Code",
-      "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\Code.csproj",
+      "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\CodeFactory.csproj",
+      "projectName": "CodeFactory",
+      "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\CodeFactory.csproj",
       "packagesPath": "C:\\Users\\andres.pena\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\obj\\",
       "projectStyle": "PackageReference",

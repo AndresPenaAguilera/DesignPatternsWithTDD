@@ -1635,14 +1635,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Code/1.0.0": {
+      "CodeFactory/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Code.dll": {}
+          "bin/placeholder/CodeFactory.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Code.dll": {}
+          "bin/placeholder/CodeFactory.dll": {}
         }
       }
     }
@@ -5648,15 +5648,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Code/1.0.0": {
+    "CodeFactory/1.0.0": {
       "type": "project",
-      "path": "../Code/Code.csproj",
-      "msbuildProject": "../Code/Code.csproj"
+      "path": "../Code/CodeFactory.csproj",
+      "msbuildProject": "../Code/CodeFactory.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Code >= 1.0.0",
+      "CodeFactory >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5671,9 +5671,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestExamples.csproj",
-      "projectName": "UnitTestExamples",
-      "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestExamples.csproj",
+      "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestFactory.csproj",
+      "projectName": "UnitTestFactory",
+      "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestFactory.csproj",
       "packagesPath": "C:\\Users\\andres.pena\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\obj\\",
       "projectStyle": "PackageReference",
@@ -5699,8 +5699,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\Code.csproj": {
-              "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\Code.csproj"
+            "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\CodeFactory.csproj": {
+              "projectPath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\CodeFactory.csproj"
             }
           }
         }

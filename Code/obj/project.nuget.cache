@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koP/poXm3YC/gzCUl54AJX/6ge6stwwe5h4rmAQNQHJNfJjURrteGnQny1cVUMwx9Y+OEB81ZGy++vAVw/AliA==",
+  "dgSpecHash": "VFoY2SEZFDw7bFerbmTmherDZeixqx7moafNE81Lr2unbTDOWXrUoyqLwdNqoLzjL5f/hBaxrE1u29l64uKgqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\Code.csproj",
+  "projectFilePath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\Code\\CodeFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

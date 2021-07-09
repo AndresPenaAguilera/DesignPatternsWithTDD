@@ -6,7 +6,7 @@ using System;
 namespace UnitTestExamples
 {
     [TestClass]
-    public class ExampleConexionDB
+    public class UnitTestExampleConexionDB
     {
         [TestMethod]
         public void Should_FactoryCreator_Return_ConnectionWithSQLServer()

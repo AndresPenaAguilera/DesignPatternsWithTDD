@@ -1,0 +1,9 @@
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\bin\Debug\netcoreapp3.1\CodeFactory.deps.json
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\bin\Debug\netcoreapp3.1\CodeFactory.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\bin\Debug\netcoreapp3.1\CodeFactory.pdb
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.csprojAssemblyReference.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.AssemblyInfoInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.AssemblyInfo.cs
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Code\obj\Debug\netcoreapp3.1\CodeFactory.pdb

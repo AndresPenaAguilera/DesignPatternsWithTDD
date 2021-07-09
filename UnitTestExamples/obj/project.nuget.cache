@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtuUvmi237IcEkLr7xjMU7c5+wSQp9flzcU0AFuy/pMX9gMIuxCe8BATxL9/ryyA0Z+zpL1ZZIHHm198fuUnVQ==",
+  "dgSpecHash": "iWse0wS0tPbhg1FKGuMqij7rVPNhMSRb/02tfJyKm5db7YME/1qDNiwzTxWNBdcojwDVsfFAvlYDwTUEEC0Q2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestExamples.csproj",
+  "projectFilePath": "C:\\Users\\andres.pena\\source\\repos\\DesignPatternsWithTDD\\UnitTestExamples\\UnitTestFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andres.pena\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\andres.pena\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
