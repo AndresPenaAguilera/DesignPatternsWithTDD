@@ -1,9 +1,0 @@
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\bin\Debug\netcoreapp3.1\CodeAbstractFactory.deps.json
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\bin\Debug\netcoreapp3.1\CodeAbstractFactory.dll
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\bin\Debug\netcoreapp3.1\CodeAbstractFactory.pdb
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.csprojAssemblyReference.cache
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.AssemblyInfoInputs.cache
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.AssemblyInfo.cs
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.csproj.CoreCompileInputs.cache
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.dll
-C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\CodeAbstractFactory\obj\Debug\netcoreapp3.1\CodeAbstractFactory.pdb

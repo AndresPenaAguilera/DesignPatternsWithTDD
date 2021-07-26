@@ -1,0 +1,12 @@
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\bin\Debug\net5.0\Creational-FactoryMethod-Code.deps.json
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\bin\Debug\net5.0\Creational-FactoryMethod-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\bin\Debug\net5.0\ref\Creational-FactoryMethod-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\bin\Debug\net5.0\Creational-FactoryMethod-Code.pdb
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.csproj.AssemblyReference.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.AssemblyInfoInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.AssemblyInfo.cs
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\ref\Creational-FactoryMethod-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-FactoryMethod-Code\obj\Debug\net5.0\Creational-FactoryMethod-Code.pdb

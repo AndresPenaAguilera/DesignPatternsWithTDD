@@ -1,0 +1,12 @@
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\bin\Debug\net5.0\Creational-AbstractFactory-Code.deps.json
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\bin\Debug\net5.0\Creational-AbstractFactory-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\bin\Debug\net5.0\ref\Creational-AbstractFactory-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\bin\Debug\net5.0\Creational-AbstractFactory-Code.pdb
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.csproj.AssemblyReference.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.AssemblyInfoInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.AssemblyInfo.cs
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\ref\Creational-AbstractFactory-Code.dll
+C:\Users\andres.pena\source\repos\DesignPatternsWithTDD\Creational-AbstractFactory-Code\obj\Debug\net5.0\Creational-AbstractFactory-Code.pdb
